@@ -1,0 +1,7 @@
+discord.py
+asyncio
+openpyxl
+youtube_ui
+bs4
+request
+pytz
