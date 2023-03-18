@@ -1796,4 +1796,4 @@ async def 랜덤뽑기(interaction: discord.Interaction):
         d = "4"           # 랜덤 변수 3 의 내용
     await interaction.response.send_message(d)
 
-bot.run("MTAxODc2MjYzMjMxMzk3NDc5NA.GWemvE.V1hAGif5FaolPX2JWumUWtIJJH_kKicZIGg-yM")
+bot.run("봇 토큰")
